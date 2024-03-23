@@ -32,9 +32,18 @@ def scrap_urls(url, keyword):
                     scrap_urls(url_join, keyword)
             else:
                 pass
+print("\n")
 
-
-
+print("#    #  #####   #        ####    ####   #####     ##    #####")
+print("#    #  #    #  #       #       #    #  #    #   #  #   #    #")
+print("#    #  #    #  #        ####   #       #    #  #    #  #    #")
+print("#    #  #####   #            #  #       #####   ######  #####")
+print("#    #  #   #   #       #    #  #    #  #   #   #    #  #")
+print(" ####   #    #  ######   ####    ####   #    #  #    #  #")
+print("\n")
+print("		Developed By Hasanar0ffcial")
+print("\n")
+print("\n")
 
 url = input("Enter the URL you want to scrap. ")    # <https://google.com> 
 keyword = input("Enter the keyword to search for in the URL provided. ")
